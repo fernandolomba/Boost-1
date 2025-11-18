@@ -208,5 +208,6 @@ marimo/_lsp/
 __marimo__/
 
 
-repos/Project-1/Module-1/nyt.csv
-repos/Project-1/Module-1/data
+venv/
+*.csv 
+data/
